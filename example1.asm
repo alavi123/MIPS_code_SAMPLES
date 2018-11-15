@@ -1,4 +1,4 @@
-#ECE 366 Sample Program 1
+#Sample Program 1
 #
 #This program checks the numbers in memory (array1 with 15 words) 
 #and stores back the absolute value of each number in array1.
